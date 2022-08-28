@@ -1,4 +1,4 @@
-# Skyrim-Shope-Dialogue
+# Skyrim-Shop-Dialogue
 
 
 
